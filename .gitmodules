@@ -1,0 +1,3 @@
+[submodule "Libs/Inkpad"]
+	path = Libs/Inkpad
+	url = https://github.com/sprang/Inkpad.git
